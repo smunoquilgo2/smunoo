@@ -12,10 +12,10 @@ salesteams:
 
 | Subtest | Link |
 |-------|--------|
-| Penalaran Umum | gala | 
-| Pengetahuan dan Pemahaman Umum | jazz |
-| Kemampuan Membaca dan Menulis | granny smith |
-| Pengetahuan Kuantitatif | Link |
+| Penalaran Umum | <button name="button" onclick="http://www.google.com">Start</button> | 
+| Pengetahuan dan Pemahaman Umum | <button name="button" onclick="http://www.google.com">Start</button> |
+| Kemampuan Membaca dan Menulis | <button name="button" onclick="http://www.google.com">Start</button> |
+| Pengetahuan Kuantitatif | <button name="button" onclick="http://www.google.com">Start</button> |
 
 
 # Tes Kemampuan Akademik MIPA
