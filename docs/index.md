@@ -12,7 +12,7 @@ salesteams:
 
 | Subtest | Link |
 |-------|--------|
-| Penalaran Umum | <button name="button" onclick="http://www.google.com">Start</button> | 
+| Penalaran Umum | [Start](http://www.google.com){: .btn}| 
 | Pengetahuan dan Pemahaman Umum | <button name="button" onclick="http://www.google.com">Start</button> |
 | Kemampuan Membaca dan Menulis | <button name="button" onclick="http://www.google.com">Start</button> |
 | Pengetahuan Kuantitatif | <button name="button" onclick="http://www.google.com">Start</button> |
