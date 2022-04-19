@@ -15,6 +15,7 @@ salesteams:
 
 
 # Tes Kemampuan Akademik MIPA
+
 | Subtest | Link |
 |-------|--------|
 | Matematika Saintek| gala | 
@@ -23,6 +24,7 @@ salesteams:
 | Kimia | Link |
 
 # Tes Kemampuan Akademik SOSHUM
+
 | Subtest | Link |
 |-------|--------|
 | Ekonomi | gala | 
@@ -31,6 +33,7 @@ salesteams:
 | Geografi | Link |
 
 # Tes Bahasa Inggris
+
 | Subtest | Link |
 |-------|--------|
 | Tes Bahasa Inggris | link | 
