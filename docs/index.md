@@ -1,20 +1,36 @@
 ## Landing Page Tryout UTBK 2022 SMAN 1 MUNTILAN
 
 
+salesteams:
+- title: Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
+
+
+# Tes Potensi Skolastik
 | Subtest | Link |
 |-------|--------|
-| ambrosia | gala | 
-| pink lady | jazz |
-| honeycrisp | granny smith |
+| Penalaran Umum | gala | 
+| Pengetahuan dan Pemahaman Umum | jazz |
+| Kemampuan Membaca dan Menulis | granny smith |
+| Pengetahuan Kuantitatif | Link |
 
 
+# Tes Kemampuan Akademik MIPA
+| Subtest | Link |
+|-------|--------|
+| Matematika Saintek| gala | 
+| Fisika | jazz |
+| Biologi | granny smith |
+| Kimia | Link |
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Tes Kemampuan Akademik SOSHUM
+| Subtest | Link |
+|-------|--------|
+| Ekonomi | gala | 
+| Sejarah | jazz |
+| Sosiologi | granny smith |
+| Geografi | Link |
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smunoquilgo2/smunoo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Tes Bahasa Inggris
+| Subtest | Link |
+|-------|--------|
+| Tes Bahasa Inggris | link | 
