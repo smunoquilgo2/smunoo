@@ -6,6 +6,7 @@ salesteams:
 
 
 # Tes Potensi Skolastik
+
 | Subtest | Link |
 |-------|--------|
 | Penalaran Umum | gala | 
