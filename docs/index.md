@@ -1,5 +1,7 @@
 ## Landing Page Tryout UTBK 2022 SMAN 1 MUNTILAN
 
+github:
+  is_project_page: false
 
 salesteams:
 - title: Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
