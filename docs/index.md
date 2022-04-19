@@ -5,6 +5,9 @@ salesteams:
 - title: Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
 
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+
 # Tes Potensi Skolastik
 
 | Subtest | Link |
