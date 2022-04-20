@@ -2,7 +2,7 @@
 
 ```ruby
  Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
-
+```
 
 # Tes Potensi Skolastik
 
