@@ -1,7 +1,7 @@
 ## Landing Page Tryout UTBK 2022 SMAN 1 MUNTILAN
 
-salesteams:
-- title: Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
+```ruby
+ Untuk TKA Silahkan pilih sesuai dengan pengambilan prodi kalian.
 
 
 # Tes Potensi Skolastik
