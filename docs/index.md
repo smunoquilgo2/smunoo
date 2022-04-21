@@ -8,7 +8,7 @@
 
 | Subtest | Link |
 |-------|--------|
-| Penalaran Umum | [Start](http://quilgo.com/t/PsBKIEc1KT01VMtm){:.btn}| 
+| Penalaran Umum | [Start](https://quilgo.com/form/auth/google?formHash=VHPnGSLjzJejRTmO){:.btn}| 
 | Pengetahuan dan Pemahaman Umum |<button name="button" onclick="http://www.google.com">TES 2</button> |
 | Kemampuan Membaca dan Menulis | <button name="button" onclick="http://www.google.com">Start</button> |
 | Pengetahuan Kuantitatif | <button name="button" onclick="http://www.google.com">Start</button> |
